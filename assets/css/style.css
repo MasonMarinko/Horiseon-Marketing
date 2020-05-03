@@ -29,11 +29,13 @@ body {
 }
 
 /*'SEO' Different Color on Logo*/
+
 span {
     color: #d9dcd6;
 }
 
 /*Header Begin*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -64,6 +66,7 @@ header nav ul li {
 }
 
 /*Hero/Banner of Website*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +77,7 @@ header nav ul li {
 }
 
 /*3 Horizontal Banners Overall Style*/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -81,6 +85,7 @@ header nav ul li {
 }
 
 /*3 Horizontal Banners Individual Styles*/
+
 .banner {
     margin-bottom: 20px;
     padding: 50px;
@@ -100,6 +105,7 @@ header nav ul li {
 }
 
 /*Benefits Vertical Bar Overall Format*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -112,6 +118,7 @@ header nav ul li {
 }
 
 /*Benefit Vertical Bar Individual Styles*/
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -129,6 +136,7 @@ header nav ul li {
 }
 
 /*Footer Style*/
+
 footer {
     padding: 30px;
     clear: both;
