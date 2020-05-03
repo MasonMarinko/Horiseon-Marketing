@@ -26,3 +26,4 @@ Fixed Broken Links
     -One of the 3 links in header didn't link, fixed the ID so that it worked properly.
 
 Cleaned up HTML code that was unlinked or not closed.
+    -Had some img, div and other elements that were missing either '>' or </item> at end.
