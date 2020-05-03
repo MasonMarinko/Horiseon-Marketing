@@ -14,10 +14,26 @@
     margin-right: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
 body {
     background-color: #d9dcd6;
 }
 
+/*'SEO' Different Color on Logo*/
+span {
+    color: #d9dcd6;
+}
+
+/*Header Begin*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,10 +44,6 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-span {
-    color: #d9dcd6;
 }
 
 header nav {
@@ -51,15 +63,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/*Hero/Banner of Website*/
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +73,14 @@ p {
     background-position: center;
 }
 
+/*3 Horizontal Banners Overall Style*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*3 Horizontal Banners Individual Styles*/
 .banner {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +99,7 @@ p {
     font-size: 36px;
 }
 
+/*Benefits Vertical Bar Overall Format*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +111,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Benefit Vertical Bar Individual Styles*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,6 +128,7 @@ p {
     max-width: 150px;
 }
 
+/*Footer Style*/
 footer {
     padding: 30px;
     clear: both;
