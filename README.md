@@ -2,6 +2,9 @@
 Website URL: https://masonmarinko.github.io/Horiseon-Marketing/
 github URL (For Repositories) https://github.com/MasonMarinko/Horiseon-Marketing
 
+Website Information:
+    -A marketing website that helps you get the most out of your business when it comes to SEO, Online Reputation and Media Marketing.
+
 Changes:
 Added Title for tab, used to say Website now says "Horiseon Marketing Solutions" 
 
